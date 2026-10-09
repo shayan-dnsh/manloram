@@ -2,7 +2,7 @@
     "name": "ManLoram",
     "short_name": "ManLoram",
     "start_url": ".",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#2B1B12",
     "theme_color": "#2B1B12",
     "description": "A Lorestan stone-throwing multiplayer game.",
